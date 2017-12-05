@@ -18,12 +18,6 @@ The process teaches critical aspects of Natural Language Processing (NLP) such a
 Visualize word frequency distributions of any novel from Project Gutenberg.
 The NLP skills developed, however, are applicable to much of what Data Scientists encounter as the vast proportion of the world's data is unstructured data and includes a great deal of text.
 
-For example, what would the following word frequency distribution be from?
-
-<p align="center">
-<img src="img/d-x.png" width="450">
-</p>
-
 ## Prerequisites
 
 Mininal. Familiarization with...
