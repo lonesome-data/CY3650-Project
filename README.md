@@ -33,7 +33,7 @@ Install the [Anaconda distribution](https://www.anaconda.com/download/) of Pytho
 
 ### 1. Clone the repository
 
-To get set up for this live coding session, clone this repository. You can do so by executing the following in your terminal:
+You can do so by executing the following in your terminal:
 
 ```
 git clone https://github.com/lonesome-data/CY3650-Project
