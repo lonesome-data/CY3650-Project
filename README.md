@@ -5,7 +5,6 @@
 <img src="img/live_preview.jpeg" width="550">
 </p>
 
-
 ## Description
 
 <p align="center">
@@ -27,7 +26,6 @@ Mininal. Familiarization with...
 * your way around the terminal/shell.
 
 Install the [Anaconda distribution](https://www.anaconda.com/download/) of Python 3 (see below).
-
 
 ## Getting set up computationally
 
