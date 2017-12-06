@@ -25,8 +25,6 @@ Familiarization with...
 * a bit about Jupyter Notebooks;
 * your way around the terminal/shell.
 
-Install the [Anaconda distribution](https://www.anaconda.com/download/) of Python 3 (see below).
-
 ## Getting set up computationally
 
 ### 1. Clone the repository
