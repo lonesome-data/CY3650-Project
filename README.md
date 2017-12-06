@@ -19,7 +19,7 @@ The NLP skills developed, however, are applicable to much of what Data Scientist
 
 ## Prerequisites
 
-Mininal. Familiarization with...
+Familiarization with...
 
 * programming fundamentals and the basics of the Python programming language (e.g., variables, for loops);
 * a bit about Jupyter Notebooks;
