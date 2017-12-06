@@ -27,7 +27,11 @@ Familiarization with...
 
 ## Getting set up computationally
 
-### 1. Clone the repository
+### 1.a Get Git (if you (Windows users) haven't already)
+
+If you do not already have [Git](https://git-for-windows.github.io/), download for BASH or GUI access to the premier version control [SCM](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+
+### 1.b Clone the repository
 
 You can do so by executing the following in your terminal:
 
