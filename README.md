@@ -11,7 +11,7 @@
 <img src="img/fb_live_schematic.png" width="550">
 </p>
 
-Follow the Data Science pipeline to plot frequency distributions of words in H. G. Wells's *The Time Machine*, or other novels.
+Follow the Data Science pipeline to plot frequency distributions of words in H. G. Wells's *The Time Machine*.
 Novels are scraped from the website [Project Gutenberg](https://www.gutenberg.org/) using the Python package `requests` and extracted using `BeautifulSoup`. Analyze a novel using the Natural Language ToolKit (`nltk`).
 The process teaches critical aspects of Natural Language Processing (NLP) such as tokenization and stopwords.
 Visualize word frequency distributions of any novel from Project Gutenberg.
