@@ -45,7 +45,7 @@ Alternatively, download the zip file of the repository at the top of the main pa
 
 ### 2. Download Anaconda (if you haven't already)
 
-If you do not already have the [Anaconda distribution](https://www.anaconda.com/download/) of Python 3, go get it (n.b., you can also do this w/out Anaconda using `pip` to install the required packages, however Anaconda is great for Data Science so you are encouraged to use it).
+If you do not already have the [Anaconda](https://www.anaconda.com/download/) distribution of Python 3, go get it (n.b., you can also do this w/out Anaconda using `pip` to install the required packages, however Anaconda is great for Data Science so you are encouraged to use it).
 
 ### 3. Create your conda environment for this session
 
