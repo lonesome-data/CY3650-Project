@@ -21,13 +21,16 @@ The NLP skills developed, however, are applicable to much of what Data Scientist
 
 Familiarization with...
 
-* programming fundamentals and the basics of the Python programming language (e.g., variables, for loops);
-* a bit about Jupyter Notebooks;
-* your way around the terminal/shell.
+* programming fundamentals of the Python programming language (e.g., variables, for loops);
+* Jupyter Notebooks;
+* terminal/shell.
 
 ## Getting set up computationally
 
-### 1.a Get Git (if you (Windows users) haven't already)
+## Git
+At the heart of GitHub is an open source version control system (VCS) called [Git](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners). Git is responsible for everything GitHub-related that happens locally on your computer.  To use Git on the command line, you'll need to download, install, and configure Git on your computer.
+
+### 1.a Download Git (if you (Windows users) haven't already)
 
 If you do not already have [Git](https://git-for-windows.github.io/), download for BASH or GUI access to the premier version control [SCM](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
