@@ -33,21 +33,20 @@ If you do not already have [Git](https://git-for-windows.github.io/), download f
 
 ### 1.b Clone the repository
 
-You can do so by executing the following in your terminal:
+Executing the following in a Git capable terminal:
 
 ```
 git clone https://github.com/lonesome-data/CY3650-Project
 ```
-
-Alternatively, you can download the zip file of the repository at the top of the main page of the repository. If you prefer not to use git or don't have experience with it, this a good option.
+Alternatively, download the zip file of the repository at the top of the main page. If you prefer not to use git or don't have experience with it, this a good option.  Just be mindful of where the file is unzipped.
 
 ### 2. Download Anaconda (if you haven't already)
 
-If you do not already have the [Anaconda distribution](https://www.anaconda.com/download/) of Python 3, go get it (n.b., you can also do this w/out Anaconda using `pip` to install the required packages, however Anaconda is great for Data Science and you are encouraged to use it).
+If you do not already have the [Anaconda distribution](https://www.anaconda.com/download/) of Python 3, go get it (n.b., you can also do this w/out Anaconda using `pip` to install the required packages, however Anaconda is great for Data Science so you are encouraged to use it).
 
 ### 3. Create your conda environment for this session
 
-Navigate to the relevant directory `CY3650-Project` and install required packages in a new conda environment:
+Navigate to the relevant directory `CY3650-Project` and install required packages in a new conda [environment](https://conda.io/docs/user-guide/tasks/build-packages/environment-variables.html):
 
 ```
 conda env create -f environment.yml
@@ -63,14 +62,15 @@ On Windows, execute
 ```
 activate CY3650_nlp
 ```
-
-
 ### 4. Open your Jupyter notebook
 
-In the terminal, execute `jupyter notebook`.
+In the terminal, execute 
+
+```
+jupyter notebook
+```
 
 Then open the notebook `CY3650_NLP.ipynb` and we're ready to get coding. Enjoy.
 
-
 ### Code
-The code in this repository is released under the [MIT license](LICENSE). Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT). All text remains the Intellectual Property of DataCamp. If you wish to reuse, adapt or remix, get in touch with me at hugo at datacamp com to request permission.
+The code in this repository is released under the [MIT license](LICENSE). Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT). 
