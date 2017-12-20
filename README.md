@@ -1,15 +1,7 @@
 
 # NLP in Python
 
-<p align="center">
-<img src="img/live_preview.jpeg" width="550">
-</p>
-
 ## Description
-
-<p align="center">
-<img src="img/fb_live_schematic.png" width="550">
-</p>
 
 Follow the Data Science pipeline to plot frequency distributions of words in Rudyard Kipling's novel *Indian Tales*.
 Novels are scraped from the website [Project Gutenberg](https://www.gutenberg.org/) using the Python package `requests` and extracted using `BeautifulSoup`. Analyze a novel using the Natural Language ToolKit (`nltk`).
