@@ -1,0 +1,6 @@
+requests>=2.31
+beautifulsoup4>=4.12
+nltk>=3.8
+matplotlib>=3.7
+seaborn>=0.13
+jupyter>=1.0
