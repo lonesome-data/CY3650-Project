@@ -30,8 +30,8 @@ HTTP GET → BeautifulSoup (HTML → text) → RegexpTokenizer → Stopword filt
 ## Quickstart
 
 ```bash
-git clone https://github.com/lonesome-data/NLP-Project.git
-cd NLP-Project
+git clone https://github.com/lonesome-data/nlp-project.git
+cd nlp-project
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 jupyter notebook nlp_word_frequency.ipynb
