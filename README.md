@@ -1,6 +1,6 @@
 # Word Frequency Analysis of Literary Texts Using NLP
 
-Completed as part of **Naval Postgraduate School** CY3650 Cyber Data Management and Analytics.
+Completed as part of **Naval Postgraduate School** Cyber Data Management and Analytics.
 
 ## Problem
 
@@ -30,8 +30,8 @@ HTTP GET → BeautifulSoup (HTML → text) → RegexpTokenizer → Stopword filt
 ## Quickstart
 
 ```bash
-git clone https://github.com/lonesome-data/CY3650-Project.git
-cd CY3650-Project
+git clone https://github.com/lonesome-data/NLP-Project.git
+cd NLP-Project
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 jupyter notebook nlp_word_frequency.ipynb
@@ -44,7 +44,7 @@ jupyter notebook nlp_word_frequency.ipynb
 ├── data/
 │   └── stopwords.txt                # Custom stopwords reference
 ├── requirements.txt                 # Python dependencies
-└── CY3650_NLP_original.ipynb        # Original 2018 notebook (archived)
+└── NLP_original.ipynb               # Original 2018 notebook (archived)
 ```
 
 ## License
